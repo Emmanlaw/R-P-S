@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+.rps-div {
+    width : 30%;
+    display:inline-block;
+    height : 100px;
+}
+
+div img {
+    width: 100%;
+}
+
+.rpsContainer {
+    display:inline-block;
+}
+
+.result {
+    margin: 10px;
+    clear: center;
+}
